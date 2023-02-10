@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Olá Mundo
+ eu sou o Diego Poletto Apaixonado por tecnologia, estudante de desenvolimento web, futuro dev.
 <!--
 **DiegoPoletto/DiegoPoletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
